@@ -31,5 +31,5 @@
 - [입문][JAVA] 양꼬치
 - [입문][JAVA] 편지
 - [입문][JAVA] 제곱수 판별하기
-- 트러블 슈팅
+- 💥 트러블 슈팅
   - https://velog.io/@yeoni9094/%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8%EA%B8%88%EC%9D%BC-%EC%98%A4%EB%A5%98-20241023
