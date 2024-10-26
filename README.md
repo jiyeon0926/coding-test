@@ -41,3 +41,6 @@
 2024-10-27
   - [SQL 고득점 Kit][SELECT][MySQL] 흉부외과 또는 일반외과 의사 출력하기
   - [SQL 고득점 Kit][SELECT][MySQL] 12세 이하인 여자 환자 목록 출력하기
+  - [SQL 고득점 Kit][SELECT][MySQL] 3월에 태어난 여성 회원 목록 출력하기
+  - [SQL 고득점 Kit][SELECT][MySQL] 서울에 위치한 식당 목록 출력하기
+  - [SQL 고득점 Kit][SELECT][MySQL] Python 개발자 찾기
