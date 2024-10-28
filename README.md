@@ -1,4 +1,4 @@
-# 프로그래머스
+# 🖤 프로그래머스
 
 2024-10-15
 - [SQL 고득점 Kit][SELECT][MySQL] 평균 일일 대여 요금 구하기
@@ -44,3 +44,7 @@
   - [SQL 고득점 Kit][SELECT][MySQL] 3월에 태어난 여성 회원 목록 출력하기
   - [SQL 고득점 Kit][SELECT][MySQL] 서울에 위치한 식당 목록 출력하기
   - [SQL 고득점 Kit][SELECT][MySQL] Python 개발자 찾기
+
+2024-10-28
+  - [Lv. 0][JAVA] 자릿수 더하기
+  - 
