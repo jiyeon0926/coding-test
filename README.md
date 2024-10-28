@@ -50,3 +50,5 @@
   - [Lv. 1][JAVA] 자릿수 더하기
   - [Lv. 0][JAVA] 약수 구하기
   - [Lv. 1][JAVA] 약수의 합
+  - 💥 트러블 슈팅
+    - https://velog.io/@yeoni9094/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-20241028
