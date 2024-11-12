@@ -91,10 +91,12 @@
 - [Lv. 1][JAVA] 나누어 떨어지는 숫자 배열
 - [Lv. 1][JAVA] 음양 더하기
 - [Lv. 1][JAVA] 핸드폰 번호 가리기
-- [Lv. 1][JAVA] 없는 숫자 더하기
 - [SQL 고득점 Kit][SELECT][MySQL] 조건에 부합하는 중고거래 댓글 조회하기
+- 💥 트러블 슈팅
+  - https://velog.io/@yeoni9094/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-Lv.-1%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-20241112
 
 2024-11-13
+- [Lv. 1][JAVA] 없는 숫자 더하기
 - [Lv. 1][JAVA] 제일 작은 수 제거하기
 
 2024-11-14
