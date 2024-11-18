@@ -98,16 +98,10 @@
 2024-11-18
 - [Lv. 1][JAVA] 없는 숫자 더하기
 - [Lv. 1][JAVA] 제일 작은 수 제거하기
-- [Lv. 1][JAVA] 가운데 글자 가져오기
-- [Lv. 1][JAVA] 수박수박수박수박수박수?
-- [Lv. 1][JAVA] 내적
-- [Lv. 1][JAVA] 약수의 개수와 덧셈
-- [Lv. 1][JAVA] 문자열 내림차순으로 배치하기
 - [SQL 고득점 Kit][SELECT][MySQL] 강원도에 위치한 생산공장 목록 출력하기
 - [SQL 고득점 Kit][SELECT][MySQL] 조건에 맞는 도서 리스트 출력하기
 - [SQL 고득점 Kit][SELECT][MySQL] 모든 레코드 조회하기
 - [SQL 고득점 Kit][SELECT][MySQL] 역순 정렬하기
-- [SQL 고득점 Kit][SELECT][MySQL] 오프라인/온라인 판매 데이터 통합하기
 - [SQL 고득점 Kit][SELECT][MySQL] 아픈 동물 찾기
 - [SQL 고득점 Kit][SELECT][MySQL] 어린 동물 찾기
 - [SQL 고득점 Kit][SELECT][MySQL] 동물의 아이디와 이름
@@ -116,3 +110,15 @@
 - [SQL 고득점 Kit][SELECT][MySQL] 조건에 맞는 회원수 구하기
 - [SQL 고득점 Kit][SELECT][MySQL] 업그레이드 된 아이템 구하기
 - [SQL 고득점 Kit][SELECT][MySQL] 조건에 맞는 개발자 찾기
+- 💥 트러블 슈팅
+  - https://velog.io/@yeoni9094/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-SQL-%EA%B3%A0%EB%93%9D%EC%A0%90-Kit%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-20241118
+  - https://velog.io/@yeoni9094/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-Lv.-1%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-20241118 
+
+2024-11-19
+- [Lv. 1][JAVA] 가운데 글자 가져오기
+- [Lv. 1][JAVA] 수박수박수박수박수박수?
+- [Lv. 1][JAVA] 내적
+- [Lv. 1][JAVA] 약수의 개수와 덧셈
+- [Lv. 1][JAVA] 문자열 내림차순으로 배치하기
+- [Lv. 1][JAVA] 부족한 금액 계산하기
+- [SQL 고득점 Kit][SELECT][MySQL] 오프라인/온라인 판매 데이터 통합하기
