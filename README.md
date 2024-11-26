@@ -131,10 +131,12 @@
 - [Lv. 1][JAVA] 3진법 뒤집기
 - [Lv. 1][JAVA] 삼총사
 - 💥 트러블 슈팅
-  -https://velog.io/@yeoni9094/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-Lv.-1%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-20241126
+  - https://velog.io/@yeoni9094/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-Lv.-1%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-20241126
 
 2024-11-27
 - [Lv. 1][JAVA] 이상한 문자 만들기
 - [Lv. 1][JAVA] 크기가 작은 부분 문자열
+- [SQL 고득점 Kit][SELECT][MySQL] 잔챙이 잡은 수 구하기
+- [SQL 고득점 Kit][SELECT][MySQL] 가장 큰 물고기 10마리 구하기
 - 💥 트러블 슈팅
   - https://velog.io/@yeoni9094/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-Lv.-1%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-20241127
