@@ -121,4 +121,15 @@
 - [Lv. 1][JAVA] 약수의 개수와 덧셈
 - [Lv. 1][JAVA] 문자열 내림차순으로 배치하기
 - [Lv. 1][JAVA] 부족한 금액 계산하기
+
+2024-11-26
 - [SQL 고득점 Kit][SELECT][MySQL] 오프라인/온라인 판매 데이터 통합하기
+- [Lv. 1][JAVA] 문자열 다루기 기본
+- [Lv. 1][JAVA] 행렬의 덧셈
+- [Lv. 1][JAVA] 직사각형 별찍기
+- [Lv. 1][JAVA] 최대공약수와 최소공배수
+- [Lv. 1][JAVA] 3진법 뒤집기
+- [Lv. 1][JAVA] 이상한 문자 만들기
+- [Lv. 1][JAVA] 삼총사
+- 💥 트러블 슈팅
+  -https://velog.io/@yeoni9094/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-Lv.-1%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-20241126
